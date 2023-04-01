@@ -1,5 +1,5 @@
 /*
-	Multiplexing Assignment
+    Multiplexing Assignment
     
     This program uses 16 pins on the Arduino Uno to light up 64 
     LEDs in a specific sequence.
